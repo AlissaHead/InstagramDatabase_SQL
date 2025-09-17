@@ -67,7 +67,8 @@ The schema demonstrates:
 
 ## Example Queries
 
-All SQL queries are stored in the [`Scripts/`](Scripts) folder.  
+All SQL queries are stored in the [`Scripts/`](InstagramDatabase_SQL/IGDatabase_SQL/Scripts/
+) folder.  
 
 
 
