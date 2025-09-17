@@ -56,7 +56,7 @@ The **Data Dictionary** complements this by listing attributes, data types, null
 
 ## ERD (Entity Relationship Diagram)
 
-![ERD](Design/ERD.png)
+![ERD](IGDatabase_SQL/Design/ERD.png)
 
 The schema demonstrates:  
 - **One-to-many** → Customer → Posts, Posts → Reviews  
