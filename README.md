@@ -1,4 +1,4 @@
-# 📸 Instagram Database (SQL)
+# Instagram Database (SQL)
 
 This project models the back-end database of a simplified **Instagram-like system**.  
 It demonstrates **data modeling, functional requirements documentation, and SQL querying** with entities such as **customers, employees, posts, reviews, and departments**.  
@@ -10,7 +10,7 @@ The repository includes:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 instagram-database/
 │
@@ -31,7 +31,7 @@ instagram-database/
 
 ---
 
-## 📝 Functional Requirements
+## Functional Requirements
 
 The **Functional Requirements Document (FRD)** defines the project’s purpose, scope, and methodology:
 
@@ -54,7 +54,7 @@ The **Data Dictionary** complements this by listing attributes, data types, null
 
 ---
 
-## 📐 ERD (Entity Relationship Diagram)
+## ERD (Entity Relationship Diagram)
 
 ![ERD](Design/ERD.png)
 
@@ -65,7 +65,7 @@ The schema demonstrates:
 
 ---
 
-## 🔍 Example Queries
+## Example Queries
 
 All SQL queries are stored in the [`Scripts/`](Scripts) folder.  
 
