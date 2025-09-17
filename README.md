@@ -11,7 +11,7 @@ The repository includes:
 ---
 
 ## Repository Structure
-
+```
 instagram-database/
 │
 ├── Requirements/
@@ -28,7 +28,7 @@ instagram-database/
 │ └── scripts.png # Example of scripts running
 │
 └── README.md # Project overview
-
+```
 ---
 
 ## Functional Requirements
