@@ -67,7 +67,7 @@ The schema demonstrates:
 
 ## 🔍 Example Queries
 
-All SQL queries are stored in the [`Queries/`](Queries) folder.  
+All SQL queries are stored in the [`Scripts/`](Scripts) folder.  
 
 
 
